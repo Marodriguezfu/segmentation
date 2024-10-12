@@ -56,13 +56,7 @@ pip install numpy matplotlib
 
 2. Place the provided images in the images/ folder.
 
-3. Run the scripts step by step, for example:
-```bash
-python src/sobel.py
-python src/kmeans1.py
-python src/otsu.py
-python src/region_growing.py
-```
+3. Run the scripts step by step.
 
 4. Adjust parameters (thresholds, number of clusters, seed point) to observe different segmentation results.
 
